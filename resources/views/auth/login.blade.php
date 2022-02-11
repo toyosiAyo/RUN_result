@@ -42,15 +42,7 @@
                                         <h1>Sign in</h1>
                                         <span>Free access to our dashboard.</span>
                                     </div>
-                                    <div class="col-12 text-center mb-4">
-                                        <a class="btn btn-lg btn-outline-secondary btn-block" href="#">
-                                            <span class="d-flex justify-content-center align-items-center">
-                                                <img class="avatar xs me-2" src="../assets/images/google.svg" alt="Image Description">
-                                                Sign in with Google
-                                            </span>
-                                        </a>
-                                        <span class="dividers text-muted mt-4">OR</span>
-                                    </div>
+                                    
                                     <div class="col-12">
                                         <div class="mb-2">
                                             <label class="form-label">Email address</label>
