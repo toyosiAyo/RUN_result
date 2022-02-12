@@ -38,33 +38,33 @@
                         <div class="col-lg-6 d-flex justify-content-center align-items-center border-0 rounded-lg auth-h100">
                             <div class="w-100 p-3 p-md-5 card border-0 bg-dark text-light" style="max-width: 32rem;">
                                 <!-- Form -->
-                                <form class="row g-1 p-3 p-md-4">
+                                <form method="post" class="row g-1 p-3 p-md-4">
                                     <div class="col-12 text-center mb-1 mb-lg-5">
                                         <h1>Create your account</h1>
                                     </div>
                                     <div class="col-12">
                                         <div class="mb-2">
                                             <label class="form-label">Email address</label>
-                                            <input type="email" class="form-control form-control-lg" placeholder="name@example.com">
+                                            <input type="email" name="email" id="email" class="form-control form-control-lg" placeholder="name@run.edu.ng" required>
                                         </div>
                                     </div>
                                     <div class="col-12">
                                         <div class="mb-2">
                                             <label class="form-label">Password</label>
-                                            <input type="email" class="form-control form-control-lg" placeholder="8+ characters required">
+                                            <input type="password" name="password" id="password" class="form-control form-control-lg" placeholder="8+ characters required">
                                         </div>
                                     </div>
                                     <div class="col-12">
                                         <div class="mb-2">
                                             <label class="form-label">Confirm password</label>
-                                            <input type="email" class="form-control form-control-lg" placeholder="8+ characters required">
+                                            <input type="password" name="confirm_pass" id="confirm_pass" class="form-control form-control-lg" placeholder="8+ characters required">
                                         </div>
                                     </div>
                                     <div class="col-12 text-center mt-4">
-                                        <button type="submit" class="btn btn-lg btn-block btn-light lift text-uppercase" alt="SIGNUP">CREATE ACCOUNT</button>
+                                        <button type="submit" class="btn btn-lg btn-block btn-light lift text-uppercase">CREATE ACCOUNT</button>
                                     </div>
                                     <div class="col-12 text-center mt-4">
-                                        <span class="text-muted">Already have an account? <a href="/" title="Log in" class="text-secondary">Log in here</a></span>
+                                        <span class="text-muted">Already have an account? <a href="/" title="Log in" class="text-secondary">Login here</a></span>
                                     </div>
                                 </form>
                                 <!-- End Form -->
