@@ -22,3 +22,6 @@ Route::get('register', function () {
 Route::get('forgot', function () {
     return view('auth/forgot');
 });
+Route::get('dashboard', function () {
+    return view('pages/dashboard');
+});
