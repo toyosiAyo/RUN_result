@@ -18,8 +18,8 @@
                 <a class="m-link" data-bs-toggle="collapse" data-bs-target="#dashboard-Components" href="#">
                     <i class="icofont-paint fs-5"></i> <span>Courses</span> <span class="arrow icofont-dotted-down ms-auto text-end fs-5"></span></a>
                 <ul class="sub-menu collapse" id="dashboard-Components">
-                    <li><a class="ms-link" href="#"> <span>Approved</span></a></li>
-                    <li><a class="ms-link" href="#"> <span>Pending</span></a></li>
+                    <li><a class="ms-link" href="dashboard"> <span>Approved</span></a></li>
+                    <li><a class="ms-link" href="pending"> <span>Pending</span></a></li>
                 </ul>
             </li>
         </ul>

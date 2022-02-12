@@ -23,11 +23,10 @@
         var url = window.location.href;
         var target = url.split('/');
         $(selector).each(function(){
-            if($(this).find('a').attr('href')===('/'+target[target.length-1])){                             
-                console.log('hey')
+            if($(this).find('a').attr('href')===(target[target.length-1])){                             
                 $(selector).removeClass('active');
-                $(this).removeClass('active').addClass('active');
-                $('.collapse').removeClass('show').addClass('show');
+                $(this).find('a').removeClass('active').addClass('active');
+                //$('.collapse').removeClass('show').addClass('show');
             }
         });
     </script>
