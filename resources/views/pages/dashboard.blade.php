@@ -20,7 +20,7 @@
                                     <div class="d-flex align-items-center">
                                         <div class="avatar lg  rounded-1 no-thumbnail bg-lightyellow color-defult"><i class="bi bi-journal-check fs-4"></i></div>
                                         <div class="flex-fill ms-4">
-                                            <div class="">Total Task</div>
+                                            <div class="">Approved Courses</div>
                                             <h5 class="mb-0 ">122</h5>
                                         </div>
                                         <a href="task.html" title="view-members" class="btn btn-link text-decoration-none  rounded-1"><i class="icofont-hand-drawn-right fs-2 "></i></a>
@@ -34,7 +34,7 @@
                                     <div class="d-flex align-items-center">
                                         <div class="avatar lg  rounded-1 no-thumbnail bg-lightblue color-defult"><i class="bi bi-list-check fs-4"></i></div>
                                         <div class="flex-fill ms-4">
-                                            <div class="">Completed Task</div>
+                                            <div class="">Pending Courses</div>
                                             <h5 class="mb-0 ">376</h5>
                                         </div>
                                         <a href="task.html" title="space-used" class="btn btn-link text-decoration-none  rounded-1"><i class="icofont-hand-drawn-right fs-2 "></i></a>
@@ -48,7 +48,7 @@
                                     <div class="d-flex align-items-center">
                                         <div class="avatar lg  rounded-1 no-thumbnail bg-lightgreen color-defult"><i class="bi bi-clipboard-data fs-4"></i></div>
                                         <div class="flex-fill ms-4">
-                                            <div class="">Progress Task</div>
+                                            <div class="">Add Course(s)</div>
                                             <h5 class="mb-0 ">74</h5>
                                         </div>
                                         <a href="task.html" title="renewal-date" class="btn btn-link text-decoration-none  rounded-1"><i class="icofont-hand-drawn-right fs-2 "></i></a>
