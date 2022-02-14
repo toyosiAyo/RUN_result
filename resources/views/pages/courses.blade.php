@@ -53,7 +53,7 @@
                                                </td>
                                                 <td>
                                                     <div class="btn-group" role="group" aria-label="Basic outlined example">
-                                                        <button type="button" class="btn btn-outline-secondary" data-bs-toggle="modal" data-bs-target="#depedit">View <i class="icofont-edit text-success"></i></button>
+                                                        <button type="button" class="btn btn-outline-secondary" data-bs-toggle="modal" data-bs-target="#depedit">View <i class="icofont-eye-open text-success"></i></button>
                                                     </div>
                                                 </td>
                                             </tr>
