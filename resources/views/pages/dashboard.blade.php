@@ -109,26 +109,6 @@
                     </div><!-- Row End -->
                 </div>             
             </div>
-
-            <!-- Modal Members-->
-            <div class="modal fade" id="addCourse" tabindex="-1" aria-labelledby="addUserLabel" aria-hidden="true">
-                <div class="modal-dialog modal-dialog-centered modal-lg">
-                <div class="modal-content">
-                    <div class="modal-header">
-                        <h5 class="modal-title  fw-bold" id="addUserLabel">Add Course(s)</h5>
-                        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-                    </div>
-                    <div class="modal-body">
-                        <div class="inviteby_email">
-                            <div class="input-group mb-3">
-                                <input type="text" class="form-control">
-                                <button class="btn btn-dark" type="button" id="button-addon2">Submit</button>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                </div>
-            </div>
         </div>
     </div>
     <!-- Plugin Js-->

@@ -16,9 +16,9 @@
             <li><a class="m-link" href="dashboard"><i class="icofont-home"></i> <span>Dashboard</span></a></li>
             <li class="collapsed">
                 <a class="m-link" data-bs-toggle="collapse" data-bs-target="#dashboard-Components" href="#">
-                    <i class="icofont-paint fs-5"></i> <span>Courses</span> <span class="arrow icofont-dotted-down ms-auto text-end fs-5"></span></a>
+                    <i class="icofont-law-document fs-5"></i> <span>Courses</span> <span class="arrow icofont-dotted-down ms-auto text-end fs-5"></span></a>
                 <ul class="sub-menu collapse" id="dashboard-Components">
-                    <li><a class="ms-link" href="dashboard"> <span>Approved</span></a></li>
+                    <li><a class="ms-link" href="courses"> <span>Approved</span></a></li>
                     <li><a class="ms-link" href="pending"> <span>Pending</span></a></li>
                 </ul>
             </li>

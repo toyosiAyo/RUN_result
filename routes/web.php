@@ -25,3 +25,6 @@ Route::get('forgot', function () {
 Route::get('dashboard', function () {
     return view('pages/dashboard');
 });
+Route::get('courses', function () {
+    return view('pages/courses');
+});
